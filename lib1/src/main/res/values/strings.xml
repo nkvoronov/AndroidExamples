@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Color And Character</string>
+    <string name="button1">Character</string>
+    <string-array name="spinner_color">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Navy</item>
+        <item>Violet</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="spinner_value">
+        <item>Red Val</item>
+        <item>Orange Val</item>
+        <item>Yellow Val</item>
+        <item>Green Val</item>
+        <item>Blue Val</item>
+        <item>Navy Val</item>
+        <item>Violet Val</item>
+        <item>Black Val</item>
+    </string-array>
+</resources>
